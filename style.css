@@ -2,10 +2,12 @@
 html{
     font-size: 100%;
 }
-h1{
+h1{	
     font-size:2rem;
-    text-align: center;    
+    text-align: center;
+    color: red;
 }
 h2{
     font-size:1.5rem;
+    color: blue;
 }
